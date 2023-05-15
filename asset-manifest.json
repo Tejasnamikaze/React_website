@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tejasnamikaze/React_website.git/static/css/main.bf212a16.css",
+    "main.js": "/Tejasnamikaze/React_website.git/static/js/main.ee6e983c.js",
+    "static/media/img-2.jpg": "/Tejasnamikaze/React_website.git/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-1.jpg": "/Tejasnamikaze/React_website.git/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/Tejasnamikaze/React_website.git/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/Tejasnamikaze/React_website.git/index.html",
+    "main.bf212a16.css.map": "/Tejasnamikaze/React_website.git/static/css/main.bf212a16.css.map",
+    "main.ee6e983c.js.map": "/Tejasnamikaze/React_website.git/static/js/main.ee6e983c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf212a16.css",
+    "static/js/main.ee6e983c.js"
+  ]
+}
