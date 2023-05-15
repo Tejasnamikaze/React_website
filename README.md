@@ -1,3 +1,17 @@
+<img width="1280" alt="Screenshot 2023-05-15 at 6 03 49 PM" src="https://github.com/Tejasnamikaze/React_website/assets/95167495/1654c501-f216-49f1-a47d-d112e4ae031e">
+<img width="1280" alt="Screenshot 2023-05-15 at 6 03 54 PM" src="https://github.com/Tejasnamikaze/React_website/assets/95167495/eb04a510-1979-4f75-8aaf-0be3b8f07f2c">
+<img width="1280" alt="Screenshot 2023-05-15 at 6 04 13 PM" src="https://github.com/Tejasnamikaze/React_website/assets/95167495/2b878e24-ef48-433c-9101-2ca62dc23234">
+<img width="1280" alt="Screenshot 2023-05-15 at 6 04 17 PM" src="https://github.com/Tejasnamikaze/React_website/assets/95167495/d3b5768f-a25c-4015-a2f6-8f5d81ccd0e8">
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
