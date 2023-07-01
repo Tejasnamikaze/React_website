@@ -1,0 +1,33 @@
+/* regform.css */
+
+form {
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 5px;
+}
+
+label {
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"] {
+    padding: 10px;
+    margin: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}

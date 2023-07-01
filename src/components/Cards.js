@@ -10,37 +10,37 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src=""
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BQbkwIe8uQW0rzEAaY7lysrERKnuu7wj0Q&usqp=CAU"
 
               text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua"
-              label="FARMHOUSE PIZZA"
+              label="Udaan "
               path="/services"
             />
             <CardItem
-              src=""
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BQbkwIe8uQW0rzEAaY7lysrERKnuu7wj0Q&usqp=CAU"
               text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua"
-              label="VEG EXTRAVAGANZA"
+              label="Udaan "
               path="/services"
             />
           </ul>
 
           <ul className="cards__items">
             <CardItem
-              src=""
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BQbkwIe8uQW0rzEAaY7lysrERKnuu7wj0Q&usqp=CAU"
               text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua"
-              label="Pepper barbecue"
+              label="Udaan "
               path="/services"
             />
             <CardItem
-              src=""
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BQbkwIe8uQW0rzEAaY7lysrERKnuu7wj0Q&usqp=CAU"
               text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua"
-              label="Cheese Dominator"
+              label="Udaan "
               path="/products"
             />
             <CardItem
-              src=""
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BQbkwIe8uQW0rzEAaY7lysrERKnuu7wj0Q&usqp=CAU"
               text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua"
-              label="4 cheese pizza"
+              label="Udaan "
               path="/sign-up"
             />
           </ul>

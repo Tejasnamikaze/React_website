@@ -11,9 +11,9 @@ import Regform from '../regform'
 function SignUp() {
   return (
     <>
-   {/* <Header/> */}
-   <Regform/>
-    
+      {/* <Header/> */}
+      <Regform />
+
     </>
   );
 }
