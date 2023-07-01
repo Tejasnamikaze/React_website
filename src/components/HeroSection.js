@@ -7,15 +7,15 @@ function HeroSection() {
   return (
     <div className='hero-container'>
       <video src='https://youtu.be/I2UBjN5ER4s'></video>
-      <h1>What's on your mind?</h1>
-      <p>Pizza? Pasta? Burger?</p>
+      <h1>OUR VOLUNTEERS</h1>
+      <p>MEET WITH THEM</p>
       <div className='hero-btns'>
         <Button
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
         >
-          ORDER NOW
+          CONNECT
         </Button>
         <Button
           className='btns'
@@ -23,7 +23,7 @@ function HeroSection() {
           buttonSize='btn--large'
           onClick={console.log('hey')}
         >
-          ADVERTISEMENT<i className='far fa-play-circle' />
+          VIDEO LINK<i className='far fa-play-circle' />
         </Button>
       </div>
     </div>

@@ -8,10 +8,10 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
-          Join the culinary newsletter to receive our best food deals
+          You have the the Power today to change for a better tommorow
         </p>
         <p className='footer-subscription-text'>
-          You can eat SCRUMPTIOUS food at any time.
+          You can be a helpful hand to change a child’s life forever. When you become a child sponsor, you become a hero to a child living in poverty.
         </p>
         <div className='input-areas'>
           <form>
@@ -64,11 +64,11 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              TRVL
+              LAMP FOUNDATION NGO
               <i class='fab fa-typo3' />
             </Link>
           </div>
-          <small class='website-rights'>TRVL © 2020</small>
+          <small class='website-rights'>LAMP FOUNDATION</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'

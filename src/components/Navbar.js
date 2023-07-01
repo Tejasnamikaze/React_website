@@ -30,8 +30,8 @@ function Navbar() {
         <div className='navbar-container'>
 
           <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-            PIZZA BAKERY
-            <i class='fas fa-pizza-slice'/>
+            LAMP FOUNDATION
+            <i class="fa-solid fa-heart"></i>
           </Link>
 
           <div className='menu-icon' onClick={handleClick}>
@@ -60,7 +60,7 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Food
+                PROGRAMS
               </Link>
             </li>
 

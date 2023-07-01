@@ -1,34 +1,101 @@
-body{
-    background: #bdc3c7;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
-
-.form{
-    background-color: white;
-    border-radius: 5px;
-    width: 550px;
-    margin: 20px auto;
-    padding: 20px;
-    /* height: 600px; */
-}
-
-.form-body{
-    text-align: left;
-    padding: 20px 10px;
-}
-
-.form-body > *{
+.App {
+    text-align: center;
+    background-color:green;
+    }
+    
+    .label{
+    display: block;
+    font-size: larger;
+    color: white;
     padding: 5px;
-}
-
-.form__label{
-    width: 40%;
-}
-
-.form_input{
-    width: 60%;
-}
-
-.footer{ text-align: center;
-}
+    }
+    
+    .input{
+    font-size: larger;
+    padding: 5px;
+    margin: 2px;
+    
+    }
+    .btn{
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    font-size: larger;
+    display: block;
+    padding: 5px;
+    margin: 10px auto;
+    }
+    
+    .messages{
+    display: flex;
+    justify-content: center;
+    }
+    
+    .error{
+    display: block;
+    background-color: red;
+    color: white;
+    width: fit-content;
+    height: 50px;
+    padding: 5px;
+    }
+    
+    .success{
+    display: block;
+    background-color: lightblue;
+    color: black;
+    width: fit-content;
+    height: 50px;
+    padding: 5px;
+    }
+    .App {
+        text-align: center;
+        background-color:green;
+        }
+        
+        .label{
+        display: block;
+        font-size: larger;
+        color: white;
+        padding: 5px;
+        }
+        
+        .input{
+        font-size: larger;
+        padding: 5px;
+        margin: 2px;
+        
+        }
+        .btn{
+        color: white;
+        background-color: red;
+        border-radius: 5px;
+        font-size: larger;
+        display: block;
+        padding: 5px;
+        margin: 10px auto;
+        }
+        
+        .messages{
+        display: flex;
+        justify-content: center;
+        }
+        
+        .error{
+        display: block;
+        background-color: red;
+        color: white;
+        width: fit-content;
+        height: 50px;
+        padding: 5px;
+        }
+        
+        .success{
+        display: block;
+        background-color: lightblue;
+        color: black;
+        width: fit-content;
+        height: 50px;
+        padding: 5px;
+        }
+            

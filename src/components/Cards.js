@@ -5,41 +5,41 @@ import CardItem from "./CardItem";
 function Cards() {
   return (
     <div className="cards">
-      <h1>Check out these wide range of SCRUMPTIOUS DISHES..</h1>
+      <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua.</h1>
       <div className="cards__container">
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi23Ug8hUqAjIQSCpAITPZPmnsubBcKLHlqg&usqp=CAU"
+              src=""
 
-              text="Delightful combination of onion and mushroom"
+              text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua"
               label="FARMHOUSE PIZZA"
               path="/services"
             />
             <CardItem
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZlmKIFVPJmKmT-JAOl7OsLvsIq4Ffgweu_g&usqp=CAU"
-              text="Black olives,capsicum available in cheese burst"
+              src=""
+              text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua"
               label="VEG EXTRAVAGANZA"
               path="/services"
             />
           </ul>
-          
+
           <ul className="cards__items">
             <CardItem
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPyzvtHSA_ElPh7iW0vHcK8Mv9CrcSrGumpA&usqp=CAU"
-              text="Pepper barbecue chicken for that extra zing"
+              src=""
+              text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua"
               label="Pepper barbecue"
               path="/services"
             />
             <CardItem
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZlmKIFVPJmKmT-JAOl7OsLvsIq4Ffgweu_g&usqp=CAU"
-              text="Loaded with a pound of mozarella"
+              src=""
+              text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua"
               label="Cheese Dominator"
               path="/products"
             />
             <CardItem
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo1IcBEX1kHX8_EquW2QXIbg0JCnx5GPVxrw&usqp=CAU"
-              text="Cheese overloaded with 4 different varieties of cheese"
+              src=""
+              text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua"
               label="4 cheese pizza"
               path="/sign-up"
             />
