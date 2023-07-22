@@ -1,0 +1,54 @@
+/* donation.css */
+
+.donation-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.donation-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.button {
+    align-content: center;
+    padding: 10px;
+    border: 10px;
+}
+
+.donation-container form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.donation-container label {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.donation-container input[type="number"] {
+    padding: 8px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.donation-container button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.donation-container button:hover {
+    background-color: #45a049;
+}
